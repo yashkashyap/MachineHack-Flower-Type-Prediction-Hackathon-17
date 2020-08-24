@@ -6,3 +6,4 @@
   <li>Feature Generation</li>
 </ol>
 <p><strong>Private LB Score:</strong> 0.7266287808897736</p>
+<p>The final score generated is an ensemble of two CatBoostClassifier models implemented on two different sizes of datasets.</p>
